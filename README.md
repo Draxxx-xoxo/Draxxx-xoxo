@@ -34,8 +34,8 @@ Sailboat is a Discord Bot that helps Guilds to moderate their servers with ease.
 <br><br/>
 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Draxxx-xoxo" />
+  <img height=200 align="center" src="https://github-readme-stats-brown-nine-59.vercel.app/api?username=Draxxx-xoxo" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Draxxx-xoxo&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-brown-nine-59.vercel.app/api/top-langs?username=Draxxx-xoxo&layout=compact&langs_count=8&card_width=320" />
 </a>
