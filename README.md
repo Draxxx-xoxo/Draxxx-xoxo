@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hello there!</h1>
 </div>
-My name is Jovan and I am 16 years old! I have always been interested in technology and how they intergrate together. I have been coding since 2020 and have done some amazing projects in the process. I mostly write in Javascript and have worked with other langauges such as HTML, CSS and PHP.
+My name is Jovan and I am 16 years old! I have always been interested in technology and how they integrate together. I have been coding since 2020 and have done some amazing projects in the process. I mostly write in Javascript and have worked with other languages such as HTML, CSS and PHP.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
