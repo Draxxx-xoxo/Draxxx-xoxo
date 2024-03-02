@@ -24,4 +24,3 @@
 | Achivements      | Year    |
 | --------  | ------- | 
 | SYF Arts Presentation (International Dance Catergory) - Certificate of Accomplishment | 2023    |
-| International Competitions and Assessments for Schools   | 2022     |
